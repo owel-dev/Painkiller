@@ -1,9 +1,7 @@
 <h1 align="center">Painkiller ver.0.0</h1>
-이 프로젝트는  
-42Seoul 해커톤에 *창업 교육과정 만들기* 주제로 참여했던 프로젝트입니다.   
-
-<p align="center">Build your own idea, and write a business plan about that.</p>
-<br/><br/><br/>
+이 프로젝트는
+42Seoul 해커톤에 *창업 교육과정 만들기*
+주제로 참여했던 프로젝트입니다.<br/><br/>   
 
 # 🗣 프로젝트의 목적
 - 기술창업을 하고자 하는 개발자들이 창업 프로세스 중 '기획' 부분을 경험할 수 있다 🧐
